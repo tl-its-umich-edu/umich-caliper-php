@@ -1,15 +1,16 @@
 {
-  "name": "umich-its-tl/caliper-php",
-  "description": "Caliper PHP Library",
+  "name": "umich-its-tl/umich-caliper",
+  "description": "Caliper PHP with additions for UMich needs.",
   "keywords": [
-    "caliper"
+    "Caliper",
+    "Learning-Analytics"
   ],
-  "homepage": "https://www.imsglobal.org/caliper",
+  "homepage": "https://www.imsglobal.org/activity/caliper",
   "type": "library",
   "license": "proprietary",
   "authors": [
     {
-      "name": "Lance E Sloan",
+      "name": "Mr. Lance E Sloan",
       "email": "lsloan-caliper-composer@umich.edu"
     }
   ],
